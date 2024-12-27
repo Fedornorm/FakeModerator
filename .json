@@ -1,0 +1,7 @@
+echo "# FakeModerator" >> README.md
+git init
+git add README.md 
+git commit - #20844748f 
+git branch -Moderator badges ( Elder original)
+git remote add origin https://github.com/Fedornorm/FakeModerator.git
+git push -u origin main
